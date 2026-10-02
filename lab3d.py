@@ -27,4 +27,3 @@ print("List after pop: ", mylist)
 
 #find index of element 6 in mylist and print
 print("The element 6 is present at the index ", mylist.index(6), ".")
-
